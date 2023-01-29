@@ -4214,9 +4214,6 @@
         "A2628"
       ],
       "Bootrom": "Bootrom 6338.0.0.200.19",
-      "FCCID": [
-
-      ],
       "InternalName": ["D16AP"],
       "Identifier": "iPhone14,4",
       "price": 61599,
@@ -4396,9 +4393,6 @@
         "A2633"
       ],
       "Bootrom": "Bootrom 6338.0.0.200.19",
-      "FCCID": [
-
-      ],
       "InternalName": ["D17AP"],
       "Identifier": "iPhone14,5",
       "price": 67599,
@@ -4578,9 +4572,6 @@
         "A2638"
       ],
       "Bootrom": "Bootrom 6338.0.0.200.19",
-      "FCCID": [
-
-      ],
       "InternalName": ["D63AP"],
       "Identifier": "iPhone14,2",
       "price": 89699,
@@ -4778,9 +4769,6 @@
         "A2643"
       ],
       "Bootrom": "Bootrom 6338.0.0.200.19",
-      "FCCID": [
-
-      ],
       "InternalName": ["D64AP"],
       "Identifier": "iPhone14,3",
       "price": 106699,
@@ -5083,13 +5071,6 @@
     },
     {
       "Generation": "iPhone 14",
-      "ANumber": [
-
-      ],
-      "Bootrom": "",
-      "FCCID": [
-
-      ],
       "InternalName": ["D27AP"],
       "Identifier": "iPhone14,7",
       "price": 75399,
@@ -5234,7 +5215,6 @@
     },
     {
       "Generation": "iPhone 14 Plus",
-      "Bootrom": "",
       "InternalName": ["D28AP"],
       "Identifier": "iPhone14,8",
       "price": 91999,
@@ -5379,7 +5359,6 @@
     },
     {
       "Generation": "iPhone 14 Pro",
-      "Bootrom": "",
       "InternalName": ["D73AP"],
       "Identifier": "iPhone15,2",
       "price": 129999,
@@ -5533,7 +5512,6 @@
     },
     {
       "Generation": "iPhone 14 Pro Max",
-      "Bootrom": "",
       "InternalName": ["D74AP"],
       "Identifier": "iPhone15,3",
       "price": 129999,
