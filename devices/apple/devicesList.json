@@ -6,7 +6,7 @@
       "Bootrom": [
         "Bootrom Rev.2"
       ],
-      "FCCID": "BCGA1203",
+      "FCCID": ["BCGA1203"],
       "InternalName": ["M68AP"],
       "Identifier": "iPhone1,1",
       "price": 1000,
@@ -44,7 +44,7 @@
       "Bootrom": [
         "Bootrom Rev.2"
       ],
-      "FCCID": "BCGA1241",
+      "FCCID": ["BCGA1241"],
       "InternalName": ["N82AP"],
       "Identifier": "iPhone1,2",
       "price": 2000,
@@ -246,7 +246,7 @@
       "Bootrom": [
         "Bootrom 838.3"
       ],
-      "FCCID": "BCG‑E2430A",
+      "FCCID": ["BCG‑E2430A"],
       "InternalName": ["N94AP"],
       "Identifier": "iPhone4,1",
       "price": 5000,
@@ -372,7 +372,7 @@
       "Bootrom": [
         "Bootrom 1145.3"
       ],
-      "FCCID": "BCG‑E2599A",
+      "FCCID": ["BCG‑E2599A"],
       "InternalName": ["N41AP"],
       "Identifier": "iPhone5,1",
       "price": 6000,
@@ -449,7 +449,7 @@
       "Bootrom": [
         "Bootrom 1145.3"
       ],
-      "FCCID": "BCG‑E2644A",
+      "FCCID": ["BCG‑E2644A"],
       "InternalName": ["N48AP"],
       "Identifier": "iPhone5,3",
       "price": 5500,
@@ -558,7 +558,7 @@
       "Bootrom": [
         "Bootrom 1704.10"
       ],
-      "FCCID": "BCG‑E2642A",
+      "FCCID": ["BCG‑E2642A"],
       "InternalName": ["N51AP"],
       "Identifier": "iPhone6,1",
       "price": 6500,
@@ -680,7 +680,7 @@
         "Bootrom 2234.0.0.3.3 (S8000)",
         "Bootrom 2234.0.0.2.22 (S8003)"
       ],
-      "FCCID": "BCG‑E2945A",
+      "FCCID": ["BCG‑E2945A"],
       "InternalName": [
         "N69AP",
         "N69uAP"
@@ -893,7 +893,7 @@
       "Bootrom": [
         "Bootrom 1992.0.0.1.19"
       ],
-      "FCCID": "BCG‑E2816A",
+      "FCCID": ["BCG‑E2816A"],
       "InternalName": ["N61AP"],
       "Identifier": "iPhone7,2",
       "price": 7000,
@@ -1030,7 +1030,7 @@
       "Bootrom": [
         "Bootrom 1992.0.0.1.19"
       ],
-      "FCCID": "BCG‑E2817A",
+      "FCCID": ["BCG‑E2817A"],
       "InternalName": ["N56AP"],
       "Identifier": "iPhone7,1",
       "price": 7500,
@@ -1142,7 +1142,7 @@
         "Bootrom 2234.0.0.3.3 (S8000)",
         "Bootrom 2234.0.0.2.22 (S8003)"
       ],
-      "FCCID": "BCG-E2946A",
+      "FCCID": ["BCG-E2946A"],
       "InternalName": [
         "N71AP",
         "N71mAP"
@@ -1370,7 +1370,7 @@
         "Bootrom 2234.0.0.3.3 (S8000)",
         "Bootrom 2234.0.0.2.22 (S8003)"
       ],
-      "FCCID": "BCG-E2944A",
+      "FCCID": ["BCG-E2944A"],
       "InternalName": [
         "N66AP",
         "N66mAP"
@@ -3151,7 +3151,7 @@
         "A2296",
         "A2298"
       ],
-      "Bootrom": "Bootrom 4479.0.0.100.4",
+      "Bootrom": ["Bootrom 4479.0.0.100.4"],
       "FCCID": [
         "E3500A",
         "E3501A"
@@ -3296,7 +3296,7 @@
         "A2400",
         "A2399"
       ],
-      "Bootrom": "Bootrom 5281.0.0.100.45",
+      "Bootrom": ["Bootrom 5281.0.0.100.45"],
       "FCCID": [
         "BCG-E3539A"
       ],
@@ -3567,7 +3567,7 @@
         "A2404",
         "A2403"
       ],
-      "Bootrom": "Bootrom 5281.0.0.100.45",
+      "Bootrom": ["Bootrom 5281.0.0.100.45"],
       "FCCID": [
         "BCG-E3542A"
       ],
@@ -3838,7 +3838,7 @@
         "A2407",
         "A2408"
       ],
-      "Bootrom": "Bootrom 5281.0.0.100.45",
+      "Bootrom": ["Bootrom 5281.0.0.100.45"],
       "FCCID": [
         "BCG-E3545A"
       ],
@@ -4025,7 +4025,7 @@
         "A2411",
         "A2412"
       ],
-      "Bootrom": "Bootrom 5281.0.0.100.45",
+      "Bootrom": ["Bootrom 5281.0.0.100.45"],
       "FCCID": [
         "BCG-E3548A"
       ],
@@ -4213,7 +4213,7 @@
         "A2630",
         "A2628"
       ],
-      "Bootrom": "Bootrom 6338.0.0.200.19",
+      "Bootrom": ["Bootrom 6338.0.0.200.19"],
       "InternalName": ["D16AP"],
       "Identifier": "iPhone14,4",
       "price": 61599,
@@ -4392,7 +4392,7 @@
         "A2635",
         "A2633"
       ],
-      "Bootrom": "Bootrom 6338.0.0.200.19",
+      "Bootrom": ["Bootrom 6338.0.0.200.19"],
       "InternalName": ["D17AP"],
       "Identifier": "iPhone14,5",
       "price": 67599,
@@ -4571,7 +4571,7 @@
         "A2640",
         "A2638"
       ],
-      "Bootrom": "Bootrom 6338.0.0.200.19",
+      "Bootrom": ["Bootrom 6338.0.0.200.19"],
       "InternalName": ["D63AP"],
       "Identifier": "iPhone14,2",
       "price": 89699,
@@ -4768,7 +4768,7 @@
         "A2645",
         "A2643"
       ],
-      "Bootrom": "Bootrom 6338.0.0.200.19",
+      "Bootrom": ["Bootrom 6338.0.0.200.19"],
       "InternalName": ["D64AP"],
       "Identifier": "iPhone14,3",
       "price": 106699,
@@ -4965,7 +4965,6 @@
         "A2784",
         "A2785"
       ],
-      "Bootrom": "",
       "FCCID": [
         "BCG-E4082A",
         "BCG-E8064A",
@@ -5669,7 +5668,7 @@
       "Generation": "iPad",
       "ANumber": ["A1219"],
       "Bootrom": ["Bootrom 574.4"],
-      "FCCID": "BCG‑E2381A",
+      "FCCID": ["BCG‑E2381A"],
       "InternalName": ["K48AP"],
       "Identifier": "iPad1,1",
       "price": 1000,
@@ -5702,7 +5701,7 @@
       "Generation": "iPad 2",
       "ANumber": ["A1395"],
       "Bootrom": ["Bootrom 838.3"],
-      "FCCID": "BCGA1395",
+      "FCCID": ["BCGA1395"],
       "InternalName": ["K93AP"],
       "Identifier": "iPad2,1",
       "price": 2000,
@@ -5757,7 +5756,7 @@
       "Generation": "iPad (3rd generation)",
       "ANumber": ["A1416"],
       "Bootrom": ["Bootrom 1062.2"],
-      "FCCID": "BCGA1416",
+      "FCCID": ["BCGA1416"],
       "InternalName": ["J1AP"],
       "Identifier": "iPad3,1",
       "price": 3000,
@@ -5817,7 +5816,7 @@
       "Generation": "iPad (4th generation)",
       "ANumber": ["A1458"],
       "Bootrom": ["Bootrom 1145.3.3"],
-      "FCCID": "BCGA1458",
+      "FCCID": ["BCGA1458"],
       "InternalName": ["P101AP"],
       "Identifier": "iPad3,4",
       "price": 4000,
@@ -5885,7 +5884,7 @@
       "Generation": "iPad (5th generation)",
       "ANumber": ["A1822"],
       "Bootrom": ["Bootrom 2234.0.0.3.3"],
-      "FCCID": "BCGA1822",
+      "FCCID": ["BCGA1822"],
       "InternalName": [
         "J71sAP",
         "J71tAP"
@@ -5942,7 +5941,7 @@
       "Generation": "iPad (6th generation)",
       "ANumber": ["A1893"],
       "Bootrom": ["Bootrom 2696.0.0.1.33"],
-      "FCCID": "BCGA1893",
+      "FCCID": ["BCGA1893"],
       "InternalName": ["J71bAP"],
       "Identifier": "iPad7,5",
       "price": 6000,
@@ -5996,7 +5995,7 @@
       "Generation": "iPad (7th generation)",
       "ANumber": ["A2197"],
       "Bootrom": ["Bootrom 2696.0.0.1.33"],
-      "FCCID": "BCGA2197",
+      "FCCID": ["BCGA2197"],
       "InternalName": ["J171AP"],
       "Identifier": "iPad7,11",
       "price": 7000,
@@ -6145,7 +6144,7 @@
       "Generation": "Apple Watch (1st generation)",
       "ANumber": ["A1553"],
       "Bootrom": ["Bootrom 2098.0.0.2.4"],
-      "FCCID": "BCG-E2870",
+      "FCCID": ["BCG-E2870"],
       "InternalName": ["N27aAP"],
       "Identifier": "Watch1,1",
       "price": 1000,
@@ -6260,7 +6259,7 @@
       "Generation": "Apple Watch Series 1",
       "ANumber": ["A1802"],
       "Bootrom": ["Bootrom 2651.0.0.1.31"],
-      "FCCID": "BCG‑E3102",
+      "FCCID": ["BCG‑E3102"],
       "InternalName": ["N27dAP"],
       "Identifier": "Watch2,6",
       "price": 2000,
@@ -6308,7 +6307,7 @@
         "A1816"
       ],
       "Bootrom": ["Bootrom 2651.0.0.1.31"],
-      "FCCID": "BCG‑E3104",
+      "FCCID": ["BCG‑E3104"],
       "InternalName": ["N74AP"],
       "Identifier": "Watch2,3",
       "price": 3000,
