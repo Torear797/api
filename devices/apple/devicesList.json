@@ -2,7 +2,7 @@
   "iphones": [
     {
       "Generation": "iPhone",
-      "ANumber": "A1203",
+      "ANumber": ["A1203"],
       "Bootrom": [
         "Bootrom Rev.2"
       ],
@@ -167,7 +167,7 @@
     },
     {
       "Generation": "iPhone 4",
-      "ANumber": "A1332",
+      "ANumber": ["A1332"],
       "Bootrom": [
         "Bootrom 574.4"
       ],
@@ -368,7 +368,7 @@
     },
     {
       "Generation": "iPhone 5",
-      "ANumber": "A1428",
+      "ANumber": ["A1428"],
       "Bootrom": [
         "Bootrom 1145.3"
       ],
@@ -5234,13 +5234,7 @@
     },
     {
       "Generation": "iPhone 14 Plus",
-      "ANumber": [
-
-      ],
       "Bootrom": "",
-      "FCCID": [
-
-      ],
       "InternalName": "D28AP",
       "Identifier": "iPhone14,8",
       "price": 91999,
@@ -5385,13 +5379,7 @@
     },
     {
       "Generation": "iPhone 14 Pro",
-      "ANumber": [
-
-      ],
       "Bootrom": "",
-      "FCCID": [
-
-      ],
       "InternalName": "D73AP",
       "Identifier": "iPhone15,2",
       "price": 129999,
@@ -5545,13 +5533,7 @@
     },
     {
       "Generation": "iPhone 14 Pro Max",
-      "ANumber": [
-
-      ],
       "Bootrom": "",
-      "FCCID": [
-
-      ],
       "InternalName": "D74AP",
       "Identifier": "iPhone15,3",
       "price": 129999,
@@ -5707,8 +5689,8 @@
   "ipads": [
     {
       "Generation": "iPad",
-      "ANumber": "A1219",
-      "Bootrom": "Bootrom 574.4",
+      "ANumber": ["A1219"],
+      "Bootrom": ["Bootrom 574.4"],
       "FCCID": "BCG‑E2381A",
       "InternalName": "K48AP",
       "Identifier": "iPad1,1",
@@ -5740,8 +5722,8 @@
     },
     {
       "Generation": "iPad 2",
-      "ANumber": "A1395",
-      "Bootrom": "Bootrom 838.3",
+      "ANumber": ["A1395"],
+      "Bootrom": ["Bootrom 838.3"],
       "FCCID": "BCGA1395",
       "InternalName": "K93AP",
       "Identifier": "iPad2,1",
@@ -5795,8 +5777,8 @@
     },
     {
       "Generation": "iPad (3rd generation)",
-      "ANumber": "A1416",
-      "Bootrom": "Bootrom 1062.2",
+      "ANumber": ["A1416"],
+      "Bootrom": ["Bootrom 1062.2"],
       "FCCID": "BCGA1416",
       "InternalName": "J1AP",
       "Identifier": "iPad3,1",
@@ -5855,8 +5837,8 @@
     },
     {
       "Generation": "iPad (4th generation)",
-      "ANumber": "A1458",
-      "Bootrom": "Bootrom 1145.3.3",
+      "ANumber": ["A1458"],
+      "Bootrom": ["Bootrom 1145.3.3"],
       "FCCID": "BCGA1458",
       "InternalName": "P101AP",
       "Identifier": "iPad3,4",
@@ -5923,8 +5905,8 @@
     },
     {
       "Generation": "iPad (5th generation)",
-      "ANumber": "A1822",
-      "Bootrom": "Bootrom 2234.0.0.3.3",
+      "ANumber": ["A1822"],
+      "Bootrom": ["Bootrom 2234.0.0.3.3"],
       "FCCID": "BCGA1822",
       "InternalName": [
         "J71sAP",
@@ -5980,8 +5962,8 @@
     },
     {
       "Generation": "iPad (6th generation)",
-      "ANumber": "A1893",
-      "Bootrom": "Bootrom 2696.0.0.1.33",
+      "ANumber": ["A1893"],
+      "Bootrom": ["Bootrom 2696.0.0.1.33"],
       "FCCID": "BCGA1893",
       "InternalName": "J71bAP",
       "Identifier": "iPad7,5",
@@ -6034,8 +6016,8 @@
     },
     {
       "Generation": "iPad (7th generation)",
-      "ANumber": "A2197",
-      "Bootrom": "Bootrom 2696.0.0.1.33",
+      "ANumber": ["A2197"],
+      "Bootrom": ["Bootrom 2696.0.0.1.33"],
       "FCCID": "BCGA2197",
       "InternalName": "J171AP",
       "Identifier": "iPad7,11",
@@ -6088,8 +6070,8 @@
     },
     {
       "Generation": "iPad (8th generation)",
-      "ANumber": "A2270",
-      "FCCID": "BCGA2270",
+      "ANumber": ["A2270"],
+      "FCCID": ["BCGA2270"],
       "InternalName": "J171aAP",
       "Identifier": "iPad11,6",
       "price": 8000,
@@ -6144,9 +6126,6 @@
       "ANumber": [
         "A2602"
       ],
-      "FCCID": [
-
-      ],
       "InternalName": "J181AP",
       "Identifier": "iPad12,1",
       "price": 9000,
@@ -6186,8 +6165,8 @@
   "watches": [
     {
       "Generation": "Apple Watch (1st generation)",
-      "ANumber": "A1553",
-      "Bootrom": "Bootrom 2098.0.0.2.4",
+      "ANumber": ["A1553"],
+      "Bootrom": ["Bootrom 2098.0.0.2.4"],
       "FCCID": "BCG-E2870",
       "InternalName": "N27aAP",
       "Identifier": "Watch1,1",
@@ -6301,8 +6280,8 @@
     },
     {
       "Generation": "Apple Watch Series 1",
-      "ANumber": "A1802",
-      "Bootrom": "Bootrom 2651.0.0.1.31",
+      "ANumber": ["A1802"],
+      "Bootrom": ["Bootrom 2651.0.0.1.31"],
       "FCCID": "BCG‑E3102",
       "InternalName": "N27dAP",
       "Identifier": "Watch2,6",
@@ -6350,7 +6329,7 @@
         "A1757",
         "A1816"
       ],
-      "Bootrom": "Bootrom 2651.0.0.1.31",
+      "Bootrom": ["Bootrom 2651.0.0.1.31"],
       "FCCID": "BCG‑E3104",
       "InternalName": "N74AP",
       "Identifier": "Watch2,3",
@@ -6447,7 +6426,7 @@
         "A1889",
         "A1890"
       ],
-      "Bootrom": "Bootrom 2651.0.0.3.3",
+      "Bootrom": ["Bootrom 2651.0.0.3.3"],
       "FCCID": [
         "BCG-A1860",
         "BCG-A1889",
@@ -6577,7 +6556,7 @@
       "ANumber": [
         "A1977"
       ],
-      "Bootrom": "Bootrom 3988.0.0.2.12",
+      "Bootrom": ["Bootrom 3988.0.0.2.12"],
       "FCCID": [
         "BCG-A1977"
       ],
@@ -6624,7 +6603,7 @@
       "ANumber": [
         "A2092"
       ],
-      "Bootrom": "Bootrom 3988.0.0.2.12",
+      "Bootrom": ["Bootrom 3988.0.0.2.12"],
       "FCCID": [
         "BCG-A2092"
       ],
@@ -6814,12 +6793,6 @@
     },
     {
       "Generation": "Apple Watch SE (2nd generation)",
-      "ANumber": [
-
-      ],
-      "FCCID": [
-
-      ],
       "InternalName": "N143sAP",
       "Identifier": "Watch6,10",
       "price": 28499,
@@ -6853,12 +6826,6 @@
     },
     {
       "Generation": "Apple Watch Series 8",
-      "ANumber": [
-
-      ],
-      "FCCID": [
-
-      ],
       "InternalName": "",
       "Identifier": "Watch6,14",
       "price": 39999,
@@ -6932,12 +6899,6 @@
     },
     {
       "Generation": "Apple Watch Ultra",
-      "ANumber": [
-
-      ],
-      "FCCID": [
-
-      ],
       "InternalName": "N199AP",
       "Identifier": "Watch6,18",
       "price": 79999,
