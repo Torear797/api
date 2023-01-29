@@ -7,7 +7,7 @@
         "Bootrom Rev.2"
       ],
       "FCCID": "BCGA1203",
-      "InternalName": "M68AP",
+      "InternalName": ["M68AP"],
       "Identifier": "iPhone1,1",
       "price": 1000,
       "year": 2007,
@@ -45,7 +45,7 @@
         "Bootrom Rev.2"
       ],
       "FCCID": "BCGA1241",
-      "InternalName": "N82AP",
+      "InternalName": ["N82AP"],
       "Identifier": "iPhone1,2",
       "price": 2000,
       "year": 2008,
@@ -101,7 +101,7 @@
         "BCGA1303A",
         "BCGA1303B"
       ],
-      "InternalName": "N88AP",
+      "InternalName": ["N88AP"],
       "Identifier": "iPhone2,1",
       "price": 3000,
       "year": 2009,
@@ -175,7 +175,7 @@
         "BCG‑E2380A",
         "BCG‑E2380B"
       ],
-      "InternalName": "N90AP",
+      "InternalName": ["N90AP"],
       "Identifier": "iPhone3,1",
       "price": 4000,
       "year": 2010,
@@ -247,7 +247,7 @@
         "Bootrom 838.3"
       ],
       "FCCID": "BCG‑E2430A",
-      "InternalName": "N94AP",
+      "InternalName": ["N94AP"],
       "Identifier": "iPhone4,1",
       "price": 5000,
       "year": 2011,
@@ -373,7 +373,7 @@
         "Bootrom 1145.3"
       ],
       "FCCID": "BCG‑E2599A",
-      "InternalName": "N41AP",
+      "InternalName": ["N41AP"],
       "Identifier": "iPhone5,1",
       "price": 6000,
       "year": 2012,
@@ -450,7 +450,7 @@
         "Bootrom 1145.3"
       ],
       "FCCID": "BCG‑E2644A",
-      "InternalName": "N48AP",
+      "InternalName": ["N48AP"],
       "Identifier": "iPhone5,3",
       "price": 5500,
       "year": 2013,
@@ -559,7 +559,7 @@
         "Bootrom 1704.10"
       ],
       "FCCID": "BCG‑E2642A",
-      "InternalName": "N51AP",
+      "InternalName": ["N51AP"],
       "Identifier": "iPhone6,1",
       "price": 6500,
       "year": 2013,
@@ -894,7 +894,7 @@
         "Bootrom 1992.0.0.1.19"
       ],
       "FCCID": "BCG‑E2816A",
-      "InternalName": "N61AP",
+      "InternalName": ["N61AP"],
       "Identifier": "iPhone7,2",
       "price": 7000,
       "year": 2014,
@@ -1031,7 +1031,7 @@
         "Bootrom 1992.0.0.1.19"
       ],
       "FCCID": "BCG‑E2817A",
-      "InternalName": "N56AP",
+      "InternalName": ["N56AP"],
       "Identifier": "iPhone7,1",
       "price": 7500,
       "year": 2014,
@@ -1963,7 +1963,7 @@
         "BCG-E3159A",
         "BCG-E3171A"
       ],
-      "InternalName": "D20AP",
+      "InternalName": ["D20AP"],
       "Identifier": "iPhone10,1",
       "price": 9000,
       "year": 2017,
@@ -2051,7 +2051,7 @@
         "BCG-E3160A",
         "BCG-E3173A"
       ],
-      "InternalName": "D21AP",
+      "InternalName": ["D21AP"],
       "Identifier": "iPhone10,2",
       "price": 9500,
       "year": 2017,
@@ -2148,7 +2148,7 @@
       "FCCID": [
         "BCG-E3161A"
       ],
-      "InternalName": "D22AP",
+      "InternalName": ["D22AP"],
       "Identifier": "iPhone10,3",
       "price": 9800,
       "year": 2017,
@@ -2206,7 +2206,7 @@
       "FCCID": [
         "BCG-E3220A"
       ],
-      "InternalName": "N841AP",
+      "InternalName": ["N841AP"],
       "Identifier": "iPhone11,8",
       "price": 10000,
       "year": 2018,
@@ -2404,7 +2404,7 @@
       "FCCID": [
         "BCG-E3218A"
       ],
-      "InternalName": "D321AP",
+      "InternalName": ["D321AP"],
       "Identifier": "iPhone11,2",
       "price": 10500,
       "year": 2018,
@@ -2521,7 +2521,7 @@
       "FCCID": [
         "BCG-E3219A"
       ],
-      "InternalName": "D331pAP",
+      "InternalName": ["D331pAP"],
       "Identifier": "iPhone11,6",
       "price": 11500,
       "year": 2018,
@@ -2639,7 +2639,7 @@
       "FCCID": [
         "BCG-E3309A"
       ],
-      "InternalName": "N104AP",
+      "InternalName": ["N104AP"],
       "Identifier": "iPhone12,1",
       "price": 49049,
       "year": 2019,
@@ -2855,7 +2855,7 @@
       "FCCID": [
         "BCG-E3309A"
       ],
-      "InternalName": "D421AP",
+      "InternalName": ["D421AP"],
       "Identifier": "iPhone12,3",
       "price": 55199,
       "year": 2019,
@@ -3005,7 +3005,7 @@
       "FCCID": [
         "BCG-E3309A"
       ],
-      "InternalName": "D431AP",
+      "InternalName": ["D431AP"],
       "Identifier": "iPhone12,5",
       "price": 64999,
       "year": 2019,
@@ -3156,7 +3156,7 @@
         "E3500A",
         "E3501A"
       ],
-      "InternalName": "D79AP",
+      "InternalName": ["D79AP"],
       "Identifier": "iPhone12,8",
       "price": 38649,
       "year": 2020,
@@ -3300,7 +3300,7 @@
       "FCCID": [
         "BCG-E3539A"
       ],
-      "InternalName": "D52gAP",
+      "InternalName": ["D52gAP"],
       "Identifier": "iPhone13,1",
       "price": 52449,
       "year": 2020,
@@ -3571,7 +3571,7 @@
       "FCCID": [
         "BCG-E3542A"
       ],
-      "InternalName": "D53gAP",
+      "InternalName": ["D53gAP"],
       "Identifier": "iPhone13,2",
       "price": 59799,
       "year": 2020,
@@ -3842,7 +3842,7 @@
       "FCCID": [
         "BCG-E3545A"
       ],
-      "InternalName": "D53pAP",
+      "InternalName": ["D53pAP"],
       "Identifier": "iPhone13,3",
       "price": 78699,
       "year": 2020,
@@ -4029,7 +4029,7 @@
       "FCCID": [
         "BCG-E3548A"
       ],
-      "InternalName": "D54pAP",
+      "InternalName": ["D54pAP"],
       "Identifier": "iPhone13,4",
       "price": 77299,
       "year": 2020,
@@ -4217,7 +4217,7 @@
       "FCCID": [
 
       ],
-      "InternalName": "D16AP",
+      "InternalName": ["D16AP"],
       "Identifier": "iPhone14,4",
       "price": 61599,
       "year": 2021,
@@ -4399,7 +4399,7 @@
       "FCCID": [
 
       ],
-      "InternalName": "D17AP",
+      "InternalName": ["D17AP"],
       "Identifier": "iPhone14,5",
       "price": 67599,
       "year": 2021,
@@ -4581,7 +4581,7 @@
       "FCCID": [
 
       ],
-      "InternalName": "D63AP",
+      "InternalName": ["D63AP"],
       "Identifier": "iPhone14,2",
       "price": 89699,
       "year": 2021,
@@ -4781,7 +4781,7 @@
       "FCCID": [
 
       ],
-      "InternalName": "D64AP",
+      "InternalName": ["D64AP"],
       "Identifier": "iPhone14,3",
       "price": 106699,
       "year": 2021,
@@ -4984,7 +4984,7 @@
         "BCG-E4083A",
         "BCG-E8076A"
       ],
-      "InternalName": "D49AP",
+      "InternalName": ["D49AP"],
       "Identifier": "iPhone14,6",
       "price": 42299,
       "year": 2022,
@@ -5090,7 +5090,7 @@
       "FCCID": [
 
       ],
-      "InternalName": "D27AP",
+      "InternalName": ["D27AP"],
       "Identifier": "iPhone14,7",
       "price": 75399,
       "year": 2022,
@@ -5235,7 +5235,7 @@
     {
       "Generation": "iPhone 14 Plus",
       "Bootrom": "",
-      "InternalName": "D28AP",
+      "InternalName": ["D28AP"],
       "Identifier": "iPhone14,8",
       "price": 91999,
       "year": 2022,
@@ -5380,7 +5380,7 @@
     {
       "Generation": "iPhone 14 Pro",
       "Bootrom": "",
-      "InternalName": "D73AP",
+      "InternalName": ["D73AP"],
       "Identifier": "iPhone15,2",
       "price": 129999,
       "year": 2022,
@@ -5534,7 +5534,7 @@
     {
       "Generation": "iPhone 14 Pro Max",
       "Bootrom": "",
-      "InternalName": "D74AP",
+      "InternalName": ["D74AP"],
       "Identifier": "iPhone15,3",
       "price": 129999,
       "year": 2022,
@@ -5692,7 +5692,7 @@
       "ANumber": ["A1219"],
       "Bootrom": ["Bootrom 574.4"],
       "FCCID": "BCG‑E2381A",
-      "InternalName": "K48AP",
+      "InternalName": ["K48AP"],
       "Identifier": "iPad1,1",
       "price": 1000,
       "year": 2010,
@@ -5725,7 +5725,7 @@
       "ANumber": ["A1395"],
       "Bootrom": ["Bootrom 838.3"],
       "FCCID": "BCGA1395",
-      "InternalName": "K93AP",
+      "InternalName": ["K93AP"],
       "Identifier": "iPad2,1",
       "price": 2000,
       "year": 2011,
@@ -5780,7 +5780,7 @@
       "ANumber": ["A1416"],
       "Bootrom": ["Bootrom 1062.2"],
       "FCCID": "BCGA1416",
-      "InternalName": "J1AP",
+      "InternalName": ["J1AP"],
       "Identifier": "iPad3,1",
       "price": 3000,
       "year": 2012,
@@ -5840,7 +5840,7 @@
       "ANumber": ["A1458"],
       "Bootrom": ["Bootrom 1145.3.3"],
       "FCCID": "BCGA1458",
-      "InternalName": "P101AP",
+      "InternalName": ["P101AP"],
       "Identifier": "iPad3,4",
       "price": 4000,
       "year": 2013,
@@ -5965,7 +5965,7 @@
       "ANumber": ["A1893"],
       "Bootrom": ["Bootrom 2696.0.0.1.33"],
       "FCCID": "BCGA1893",
-      "InternalName": "J71bAP",
+      "InternalName": ["J71bAP"],
       "Identifier": "iPad7,5",
       "price": 6000,
       "year": 2015,
@@ -6019,7 +6019,7 @@
       "ANumber": ["A2197"],
       "Bootrom": ["Bootrom 2696.0.0.1.33"],
       "FCCID": "BCGA2197",
-      "InternalName": "J171AP",
+      "InternalName": ["J171AP"],
       "Identifier": "iPad7,11",
       "price": 7000,
       "year": 2016,
@@ -6072,7 +6072,7 @@
       "Generation": "iPad (8th generation)",
       "ANumber": ["A2270"],
       "FCCID": ["BCGA2270"],
-      "InternalName": "J171aAP",
+      "InternalName": ["J171aAP"],
       "Identifier": "iPad11,6",
       "price": 8000,
       "year": 2017,
@@ -6126,7 +6126,7 @@
       "ANumber": [
         "A2602"
       ],
-      "InternalName": "J181AP",
+      "InternalName": ["J181AP"],
       "Identifier": "iPad12,1",
       "price": 9000,
       "year": 2018,
@@ -6168,7 +6168,7 @@
       "ANumber": ["A1553"],
       "Bootrom": ["Bootrom 2098.0.0.2.4"],
       "FCCID": "BCG-E2870",
-      "InternalName": "N27aAP",
+      "InternalName": ["N27aAP"],
       "Identifier": "Watch1,1",
       "price": 1000,
       "year": 2015,
@@ -6283,7 +6283,7 @@
       "ANumber": ["A1802"],
       "Bootrom": ["Bootrom 2651.0.0.1.31"],
       "FCCID": "BCG‑E3102",
-      "InternalName": "N27dAP",
+      "InternalName": ["N27dAP"],
       "Identifier": "Watch2,6",
       "price": 2000,
       "year": 2016,
@@ -6331,7 +6331,7 @@
       ],
       "Bootrom": ["Bootrom 2651.0.0.1.31"],
       "FCCID": "BCG‑E3104",
-      "InternalName": "N74AP",
+      "InternalName": ["N74AP"],
       "Identifier": "Watch2,3",
       "price": 3000,
       "year": 2016,
@@ -6432,7 +6432,7 @@
         "BCG-A1889",
         "BCG-A1890"
       ],
-      "InternalName": "N111sAP",
+      "InternalName": ["N111sAP"],
       "Identifier": "Watch3,1",
       "price": 15199,
       "year": 2017,
@@ -6560,7 +6560,7 @@
       "FCCID": [
         "BCG-A1977"
       ],
-      "InternalName": "N131sAP",
+      "InternalName": ["N131sAP"],
       "Identifier": "Watch4,1",
       "price": 16000,
       "year": 2018,
@@ -6607,7 +6607,7 @@
       "FCCID": [
         "BCG-A2092"
       ],
-      "InternalName": "N144sAP",
+      "InternalName": ["N144sAP"],
       "Identifier": "Watch5,1",
       "price": 17000,
       "year": 2019,
@@ -6650,7 +6650,7 @@
       "FCCID": [
         "BCG-A2351"
       ],
-      "InternalName": "N140sAP",
+      "InternalName": ["N140sAP"],
       "Identifier": "Watch5,9",
       "price": 26499,
       "year": 2020,
@@ -6689,7 +6689,7 @@
       "FCCID": [
         "BCG-A2291"
       ],
-      "InternalName": "N157sAP",
+      "InternalName": ["N157sAP"],
       "Identifier": "Watch6,1",
       "price": 27499,
       "year": 2020,
@@ -6744,7 +6744,7 @@
       "FCCID": [
         "BCG-A2473"
       ],
-      "InternalName": "N187sAP",
+      "InternalName": ["N187sAP"],
       "Identifier": "Watch6,6",
       "price": 32649,
       "year": 2021,
@@ -6793,7 +6793,7 @@
     },
     {
       "Generation": "Apple Watch SE (2nd generation)",
-      "InternalName": "N143sAP",
+      "InternalName": ["N143sAP"],
       "Identifier": "Watch6,10",
       "price": 28499,
       "year": 2022,
@@ -6826,7 +6826,6 @@
     },
     {
       "Generation": "Apple Watch Series 8",
-      "InternalName": "",
       "Identifier": "Watch6,14",
       "price": 39999,
       "year": 2022,
@@ -6899,7 +6898,7 @@
     },
     {
       "Generation": "Apple Watch Ultra",
-      "InternalName": "N199AP",
+      "InternalName": ["N199AP"],
       "Identifier": "Watch6,18",
       "price": 79999,
       "year": 2022,
